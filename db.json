@@ -6,7 +6,7 @@
   ],
   "banners": [
     { "id": 1, "name": "name 1", "usedInFrames": true, "lastEditedTime": "test"},
-    { "id": 3, "name": "test 2", "usedInFrames": true, "lastEditedTime": "test"},
+    { "id": 2, "name": "test 2", "usedInFrames": true, "lastEditedTime": "test"},
     { "id": 3, "name": "test 3", "usedInFrames": true, "lastEditedTime": "test"}
   ],
   "comments": [
