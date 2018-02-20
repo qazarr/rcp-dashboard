@@ -1,19 +1,16 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+{  
   "banners": [
     { "id": 1, "name": "name 1", "usedInFrames": true, "lastEditedTime": "test"},
     { "id": 2, "name": "test 2", "usedInFrames": true, "lastEditedTime": "test"},
     { "id": 3, "name": "test 3", "usedInFrames": true, "lastEditedTime": "test"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "frames": [
+    { "id": 1, "name": "test", "bannersCount": 3 },
+    { "id": 2, "name": "lorem ipsum", "bannersCount": 2 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "versions": [
+    { "id": 1, "status": "published", "name": "example name", "created": 1519110482437, "published": 1519110482437, "publishedBy": "user name" },
+    { "id": 2, "status": "published", "name": "example name 2", "created": 1519110482437, "published": 1519110482437, "publishedBy": "user name 2" },
+    { "id": 3, "status": "published", "name": "example name 3", "created": 1519110482437, "published": 1519110482437, "publishedBy": "user name 3" }
+  ]
 }
